@@ -2263,7 +2263,6 @@ take precedence the ones in this file. */
 /* Image */
 
 	.first-gallery {
-		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		width: 900px;
