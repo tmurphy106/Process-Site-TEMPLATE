@@ -2263,11 +2263,12 @@ take precedence the ones in this file. */
 /* Image */
 
 	.first-gallery {
-		width: 750px;
+		width: 800px;
 		position: relative;
 		text-align: center;
 		border: 3px;
 		border-color: black;
+		margin: 0 auto auto 0;
 	}
 
 	.image {
