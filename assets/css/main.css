@@ -2262,6 +2262,10 @@ take precedence the ones in this file. */
 
 /* Image */
 
+	.first-gallery {
+		width: 1000px;
+	}
+
 	.image {
 		border: 0;
 		display: inline-block;
