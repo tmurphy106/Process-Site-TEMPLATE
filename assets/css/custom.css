@@ -34,3 +34,12 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+
+ .first-gallery {
+  width: 900px;
+}
+
+.second-gallery {
+  width: 900px;
+}
