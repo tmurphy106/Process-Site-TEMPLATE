@@ -40,3 +40,7 @@ added to the button in the index html file as well.*/
   border-width: medium;
   border-color: #4e4e4e;
  }
+
+ p {
+   font-family: 'Niramit', sans-serif;
+ }
