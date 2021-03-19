@@ -43,8 +43,10 @@ added to the button in the index html file as well.*/
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
 }
 
- p {
-   font-family: 'Niramit', sans-serif;
+p {
+  font-family: 'Niramit', sans-serif;
+  font-weight: 300;
  }
