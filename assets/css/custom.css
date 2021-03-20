@@ -41,19 +41,19 @@ added to the button in the index html file as well.*/
   border-color: #4e4e4e;
  }
 
-h1, strong {
+h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   color: #f4854e;
 }
 
-h2, b {
+h2 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   color: #f26d84;
 }
 
-h3, b {
+h3 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   color: #8054A4;
