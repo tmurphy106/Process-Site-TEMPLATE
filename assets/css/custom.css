@@ -69,4 +69,9 @@ added to the button in the index html file as well.*/
    font-weight: bold;
  }
 
+ h3, #purple {
+   color: #8058a4;
+   font-weight: bold;
+ }
+
 
