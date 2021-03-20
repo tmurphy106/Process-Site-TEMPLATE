@@ -35,7 +35,7 @@ added to the button in the index html file as well.*/
  Write your css customizations below
  *********************************************/
 
- .orange { 
+ #orange { 
   color: #f4854e;
   font-weight: bold;
  }
