@@ -35,11 +35,6 @@ added to the button in the index html file as well.*/
  Write your css customizations below
  *********************************************/
 
- #orange { 
-  color: #f4854e;
-  font-weight: bold;
- }
-
  .grayBorder {
   border-style: solid;
   border-width: medium;
@@ -49,7 +44,7 @@ added to the button in the index html file as well.*/
  h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
-}
+ }
 
  p, li {
   font-family: 'Niramit', sans-serif;
@@ -62,6 +57,11 @@ added to the button in the index html file as well.*/
 
  #watercolor {
    width: 400px;
+ }
+
+ #orange { 
+  color: #f4854e;
+  font-weight: bold;
  }
 
 
