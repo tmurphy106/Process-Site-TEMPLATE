@@ -58,3 +58,7 @@ p, li {
  #watercolor {
    width: 400px;
  }
+
+ iframe {
+   text-align: center;
+ }
